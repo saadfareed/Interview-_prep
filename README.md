@@ -2,20 +2,6 @@
 
 =============================================
 
-<i>Originally published at [EulerCoder Blog](http://eulercoder.me)</i>
-
-=============================================
-
-### Donate ($1) - Help me in creating more awesome open source projects
-
-[<img src="https://www.paypalobjects.com/webstatic/mktg/logo/AM_mc_vs_dc_ae.jpg">](https://www.paypal.me/vikeshtiwari/1)
-
----
-
-Hola!
-
-As a student each one of us has a dream. Dream of doing a great internship and landing a job in a company that you really love and want to work for! There are jazillion websites, articles, blog posts and videos available on how to land an internship. Chances are, you've already read or know 98 percent of this advice: edit and proofread your resume and cover letters, dress appropriately for an interview, be on time or 15 minutes early to an interview, send thank you notes etc. You won't get any such advice here. This post will take you from zero to one. Get a notebook and pen, this is going to be a long post. Grab some snacks and start making a note of points that you think would be helpful for you in the future. 
-
 I'm assuming you are currently in second year and you'll be applying for your dream internship in third year. You already know C/C++ or any object oriented programming knowledge and basics data structures like Linked List, Stack, Queues etc.
 
 Let's divide this post into three sections.
@@ -70,13 +56,11 @@ Getting shortlisted for the interviews is the toughest part and for that your re
 - **College**
 - **Projects**
 
-	Yes, before applying for an internship make sure that you have some good quality projects to mention in your resume. Upload your code on <a href="https://github.com/vicky002" target="_blank">Github</a>, make it open source and add links to code in your resume. If you're searching for project ideas, I have a list of <a href="https://github.com/vicky002/1000_Projects" target="_blank">more than 500 projects</a>. 		
-- **Open Source Contributions**
+	Yes, before applying for an internship make sure that you have some good quality projects to mention in your resume.
 	
-	Search for good projects to <a href="https://github.com/explore" target="_blank">contribute on Github</a> improve documentation and fix bugs and do some enhancements. Companies really love it! If you don't have a good GPA then projects and open source contributions really add value to your resume.	 		
 - **Past internships** (If any)
 	
-	Before applying to top companies in US or India, you should do at least one internship in any startup. Startup internships are really a great place to learn a lot of things in a very short time. Don't think of stipend, if you really love their idea just mail and ask them about internship positions. There are many websites available for startup internships list of websites can be found at the bottom of the post.				
+	Before applying to top companies in US or Pakistan, you should do at least one internship in any startup. Startup internships are really a great place to learn a lot of things in a very short time. Don't think of stipend, if you really love their idea just mail and ask them about internship positions. There are many websites available for startup internships list of websites can be found at the bottom of the post.				
 - **Leadership Qualities**
 	
 	Volunteer in a non profit organization and be a part of college committees. 	
@@ -115,10 +99,6 @@ Your resume should have following sections.
 8. **Work Authorization**
 
 	You'll be applying to US based companies so don't forget to add this line. 
-
-This is my latest resume (Oct'16), have a look at it once. You can use <a href="https://github.com/vicky002/Resume/blob/master/res.cls" target="_blank">cls code</a> to create similar resume.  
-
-<img src="https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/Resume.png">
 
 Once you created your resume, proofread it 2-3 times. Ask your friends and employees to go through your resume and finally post your resume <a href="https://www.reddit.com/r/resumes/" target="_blank">here</a>. This subreddit is awesome and people are very helpful. It'll be brutal but they'll critique your resume brilliantly. 
 
