@@ -189,6 +189,4 @@ P.S. : Create issues if you can have any questions regarding internship, intervi
 **Disclaimer:** *I am not a recruiter or a brilliant coder who works in your dream company. I am a student just like you and I have spent last two months searching for the internship blogs, articles and interview experiences. I applied to more than twenty companies for summer internship and <a href="http://eulercoder.me/2016/02/27/My-internship-interview-experience-with-Amazon-LinkedIn-BrowserStack-Mozilla-and-Slack/" target="_blank">interviewed with some top companies</a> and I'd be interning at <a href="https://www.slack.com" target="_blank">Slack</a> this summer. Read and follow things mentioned in this post at your own risk!*
 
 
-![right?](https://raw.githubusercontent.com/vicky002/vicky002.github.io/master/img/job.gif)
-
 *Run..Run fast!!*
